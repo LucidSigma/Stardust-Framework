@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <title>Game</title>
+  <window-width>960</window-width>
+  <window-height>540</window-height>
+  <frame-rate>0</frame-rate>
+  <enable-vsync>true</enable-vsync>
+</config>
